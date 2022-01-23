@@ -9,4 +9,4 @@ The insurance company wants to know whether the proportion of female smokers is 
 
 They have provided a sample dataset of customers and the charges claimed by them.
 
-I used a proportions Z-test for this problem.
+I used a Two proportions Z-test for this problem.
